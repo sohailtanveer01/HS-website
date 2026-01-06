@@ -1,0 +1,8 @@
+# Exclude PDF files from Logos folder (not needed for website)
+Logos/*.pdf
+
+# Common files
+.DS_Store
+*.log
+node_modules/
+
