@@ -4,7 +4,7 @@ Complete HTML/CSS website matching your app's gold/black theme.
 
 ## Files Included
 
-- `index.html` - Home/Landing page
+- `index.html` - Home/Landing pag
 - `privacy-policy.html` - Privacy Policy (Required for App Store)
 - `terms-of-service.html` - Terms of Service
 - `support.html` - Help & Support page
